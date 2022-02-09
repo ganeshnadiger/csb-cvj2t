@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ganeshnadiger.github.io/csb-cvj2t/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ganeshnadiger.github.io/csb-cvj2t/static/js/main.e7f5fae4.chunk.js",
+    "main.js.map": "https://ganeshnadiger.github.io/csb-cvj2t/static/js/main.e7f5fae4.chunk.js.map",
+    "runtime-main.js": "https://ganeshnadiger.github.io/csb-cvj2t/static/js/runtime-main.c2922d2f.js",
+    "runtime-main.js.map": "https://ganeshnadiger.github.io/csb-cvj2t/static/js/runtime-main.c2922d2f.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://ganeshnadiger.github.io/csb-cvj2t/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://ganeshnadiger.github.io/csb-cvj2t/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://ganeshnadiger.github.io/csb-cvj2t/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ganeshnadiger.github.io/csb-cvj2t/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://ganeshnadiger.github.io/csb-cvj2t/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2922d2f.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.e7f5fae4.chunk.js"
+  ]
+}
